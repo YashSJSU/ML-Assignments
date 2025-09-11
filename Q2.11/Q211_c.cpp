@@ -2,9 +2,8 @@
 #include <vector>
 #include <fstream>
 #include <unordered_map>
-#include "createA.h"
+#include </Users/yash/Desktop/HMM/Q2.11/createA.h>
 using namespace std;
-
 
 vector<vector<double>> createA(const string& filepath){
     vector<vector<double>> A(26, vector<double>(26,0));

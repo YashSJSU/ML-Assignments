@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yash/Desktop/HMM/Q2.11/fake_text_gen'
+relocations:     []
+...
